@@ -1,11 +1,11 @@
 title: Susan Craigo
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/Susan_2017-11-30_10-41-24_721_med.jpg?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  IT Specialist II, Web Development Specialist at University of Tennessee Knoxville - Institute of Agriculture 
   <br><br>
-  Second description 
+  Student at Austin Peay State University, majoring in Computer Science - Internet & Web Technology 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/susancraigo/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
