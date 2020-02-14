@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Nailed It Knoxville](https://naileditknoxville.com/)With the salon owner's input, I designed and maintained this site.
+[Nailed It Knoxville] - (https://naileditknoxville.com/)With the salon owner's input, I designed and maintained this site.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -19,7 +19,7 @@
 ### Java Programming Projects, Spring 2020
 
 - [Programming Assignment #1](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass1.java)
-I had to write a program to print on separate lines: my name, department name, course number and time for each course that I am taking this semester.  Additionally, I had to skip two lines and then provide my email address.
+ - I had to write a program to print on separate lines: my name, department name, course number and time for each course that I am taking this semester.  Additionally, I had to skip two lines and then provide my email address.
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
