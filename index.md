@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Nailed It Knoxville] - (https://naileditknoxville.com/)With the salon owner's input, I designed and maintained this site.  Also embedded the Acuity scheduling website into website.
+[Nailed It Knoxville](https://naileditknoxville.com/): With the salon owner's input, I designed and maintained this site.  Also embedded the Acuity scheduling website into website.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
