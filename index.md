@@ -20,7 +20,8 @@
 
 - [Programming Assignment #1](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass1.java)
  : I had to write a program to print on separate lines: my name, department name, course number and time for each course that I am taking this semester.  Additionally, I had to skip two lines and then provide my email address.
-- [Programming Assignment #2](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass2.java) : I had to write a program that would calculate the number of center in a specific number of quarters, nickels & dimes.  The program does the following tasks: Asks the user to enter the number of quarters, nickels and dimes; calculates the number of cents; displays to the monitor the number of quarter, nickels and dimes; display to the monitor the number of cents.
+- [Programming Assignment #2](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass2.java) 
+ : I had to write a program that would calculate the number of center in a specific number of quarters, nickels & dimes.  The program does the following tasks: Asks the user to enter the number of quarters, nickels and dimes; calculates the number of cents; displays to the monitor the number of quarter, nickels and dimes; display to the monitor the number of cents.
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
