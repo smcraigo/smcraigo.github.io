@@ -17,9 +17,10 @@
 
 ---
 
-### Category Name 2
+### Java Programming Projects, Spring 2020
 
-- [Project 1 Title](http://example.com/)
+- [Programming Assignment #1](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass1.java)
+I had to write a program to print on separate lines: my name, department name, course number and time for each course that I am taking this semester.  Additionally, I had to skip two lines and then provide my email address.
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
