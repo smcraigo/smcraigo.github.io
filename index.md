@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Nailed It Knoxville](https://naileditknoxville.com/)
-<img src="images/NailedItKnoxvilleScreenShot.PNG?raw=true"/>
+<img src="https://github.com/smcraigo/smcraigo.github.io/blob/master/NailedItKnoxvilleScreenShot.PNG?raw=true"/>
 Worked with owner of salon to create and maintain this website.  This website was done in WordPress.
 ---
 [Herbert College of Agriculture](https://herbert.utk.edu)
-<img src="images/HerbertScreenshot.PNG?raw=true"/>
+<img src="https://github.com/smcraigo/smcraigo.github.io/blob/master/HerbertScreenshot.PNG?raw=true"/>
 This website was done as part of my position at The University of Tennessee.  It was done in WordPress.
 ---
 [APLU](https://ag.tennessee.edu/APLU/Pages/default.aspx)
-<img src="images/APLU_Screenshot.PNG?raw=true"/>
+<img src="https://github.com/smcraigo/smcraigo.github.io/blob/master/APLU_Screenshot.PNG?raw=true"/>
 This website was done as part of my position at The University of Tennessee.  It was done for SharePoint 2010, using SharePoint Designer.
 ---
 
