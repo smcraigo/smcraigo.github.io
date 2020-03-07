@@ -7,14 +7,17 @@
 [Nailed It Knoxville](https://naileditknoxville.com/)
 <img src="https://github.com/smcraigo/smcraigo.github.io/blob/master/NailedItKnoxvilleScreenShot.PNG?raw=true"/>
 Worked with owner of salon to create and maintain this website.  This website was done in WordPress.
+
 ---
 [Herbert College of Agriculture](https://herbert.utk.edu)
 <img src="https://github.com/smcraigo/smcraigo.github.io/blob/master/HerbertScreenshot.PNG?raw=true"/>
 This website was done as part of my position at The University of Tennessee.  It was done in WordPress.
+
 ---
 [APLU](https://ag.tennessee.edu/APLU/Pages/default.aspx)
 <img src="https://github.com/smcraigo/smcraigo.github.io/blob/master/APLU_Screenshot.PNG?raw=true"/>
 This website was done as part of my position at The University of Tennessee.  It was done for SharePoint 2010, using SharePoint Designer.
+
 ---
 
 ### Spring 2020 CSCI1015 Java Programming Assignments
@@ -22,9 +25,9 @@ This website was done as part of my position at The University of Tennessee.  It
 - [Programming Assignment 1](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass1.java)
 Assignment was to output on separate lines my name, my course information for the semester, and my email address
 - [Programming Assignment 2](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass2.java)
-Assignment was to write a program that will calculate the number of cents in a specific number of quarters, nickels, and dimes. The program will perform the following tasks:  •Ask the user to enter the number of quarters.   •Ask the user to enter the number of dimes.   •Ask the user to enter the number of nickels.  •Calculate the total number of cents.  •Display to the monitor the number of quarters, nickels, and dimes.   •Display to the monitor the number of cents.   
+Assignment was to write a program that will calculate the number of cents in a specific number of quarters, nickels, and dimes. The program will perform the following tasks:  -Ask the user to enter the number of quarters.   -Ask the user to enter the number of dimes.   -Ask the user to enter the number of nickels.  -Calculate the total number of cents.  -Display to the monitor the number of quarters, nickels, and dimes.   -Display to the monitor the number of cents.   
 - [Programming Assignment 3](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass3.java)
-You are planning a party and want to order exactly the number of slices of pizzas, drinks and cake. After a survey, you determined that each attendee will eat 4 slices of pizza, drink 2 drinks, and eat 1 piece of cake.•Each pizza has 8 slices. A pizza costs $9.25 per pizza or $1.25 a slice. •Each cake has 24 pieces. A cake costs $20 per cake or $1.00 per piece. •Each drink costs $.75 per drink. There will be a tax of 9.5% added to your total. Write a program that will calculate the total cost of your party.
+You are planning a party and want to order exactly the number of slices of pizzas, drinks and cake. After a survey, you determined that each attendee will eat 4 slices of pizza, drink 2 drinks, and eat 1 piece of cake.-Each pizza has 8 slices. A pizza costs $9.25 per pizza or $1.25 a slice. -Each cake has 24 pieces. A cake costs $20 per cake or $1.00 per piece. -Each drink costs $.75 per drink. There will be a tax of 9.5% added to your total. Write a program that will calculate the total cost of your party.
 - [Programming Assignment 4](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass4.java)
 Write a program that calculates a customer’s monthly bill. It should ask the user to enter the letter of the package the customer has purchases (A, B, C) and the number of hours that were used. It should then display the total charge. The program will also calculates and displays the amount of money Package A customers would save if they purchased Package B or C, and the amount of money Package B customers would save if they purchases Package C. If there would be no savings, no message should be printed.  
 - [Programming Assignment 5](https://github.com/smcraigo/JavaProgramsSpring2020/blob/master/CraigoPass5.java)
